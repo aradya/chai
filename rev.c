@@ -8,5 +8,6 @@ return 1+rev(n/10);
 }
 int main()
 {
+  printf("*******************");
 printf("%d\n",rev(2334));
 }
